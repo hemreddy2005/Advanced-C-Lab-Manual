@@ -41,7 +41,7 @@ int main() {
 
 ### Output:
 
-![alt text](img/21.png)
+<img width="204" height="275" alt="image" src="https://github.com/user-attachments/assets/dd60ee6d-3153-416b-a3f0-2ac558e9c025" />
 
 ### Result:
 Thus, the program  that create a function to find the greatest number is verified successfully.
@@ -97,7 +97,7 @@ int main() {
 
 ### Output:
 
-![alt text](img/22.png)
+<img width="195" height="206" alt="image" src="https://github.com/user-attachments/assets/cb420ed9-7f88-45df-adb9-595a28834eec" />
 
 ### Result:
 Thus, the program to print the maximum values for the AND, OR and XOR comparisons
@@ -158,7 +158,7 @@ int main()
 
 ### Output:
 
-![alt text](img/23.png)
+<img width="182" height="148" alt="image" src="https://github.com/user-attachments/assets/dae3b54f-7fe1-4ebb-8b91-f0b9bc507396" />
 
 ### Result:
 Thus, the program to write the logic for the requests is verified successfully.
@@ -202,7 +202,7 @@ int main()
 
 ### Output:
 
-![alt text](img/24.png)
+<img width="345" height="166" alt="image" src="https://github.com/user-attachments/assets/1e5fe0c2-b99c-43c9-bd8f-887052da9682" />
 
 ### Result:
 Thus, the program prints the sum of the integers in the array is verified successfully.
@@ -253,7 +253,7 @@ int main()
 
 ### Output:
 
-![alt text](img/25.png)
+<img width="956" height="145" alt="image" src="https://github.com/user-attachments/assets/6b250278-233b-4625-84ee-86782a3c4116" />
 
 ### Result:
 
